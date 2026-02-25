@@ -1,0 +1,15 @@
+C:\AlmaKód\Kártyajáték\Kártyajáték\bin\Debug\Kártyajáték.exe.config
+C:\AlmaKód\Kártyajáték\Kártyajáték\bin\Debug\Kártyajáték.exe
+C:\AlmaKód\Kártyajáték\Kártyajáték\bin\Debug\Kártyajáték.pdb
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.csproj.AssemblyReference.cache
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\MainWindow.baml
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\MainWindow.g.cs
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\App.g.cs
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték_MarkupCompile.cache
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.g.resources
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.Properties.Resources.resources
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.csproj.GenerateResource.cache
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.csproj.CoreCompileInputs.cache
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.exe
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.pdb
+C:\AlmaKód\Kártyajáték\Kártyajáték\obj\Debug\Kártyajáték.exe.config
